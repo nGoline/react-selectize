@@ -51,7 +51,7 @@ to include the default styles add the following import statement to your stylus 
 `@import 'node_modules/react-selectize/themes/index.css'`
 
 * **bower:**
-`bower install https://npmcdn.com/react-selectize@2.1.0/bower.zip`
+`bower install https://github.com/nGoline/react-selectize.git#2.1.0`
 
 * **1998 script tag:**
 ```html
